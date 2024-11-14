@@ -101,7 +101,7 @@ export default {
       filters: [
         { name: "Course", options: ["EPCS 2100", "EPCS 2200", "EPCS 3100", "EPCS 3200"], selectedOptions: [] },
         { name: "Enrollment Data", options: ["After Census Day", "After Last Final Exam Day"], selectedOptions: [] },
-        { name: "Ethnicity", options: ["African-American", "Asian", "Hispanic", "International", "Two or more", "Other", "Unknown", "White"], selectedOptions: [] },
+        { name: "Ethnicity", options: ["African-American", "Asian", "Hispanic", "International", "Other", "White"], selectedOptions: [] },
         { name: "Gender", options: ["Female", "Male", "Prefer not to say", "Other"], selectedOptions: [] },
         { name: "Year", options: [], selectedOptions: [] },
         { name: "Semester", options: ["Fall", "Spring", "Summer"], selectedOptions: [] },
